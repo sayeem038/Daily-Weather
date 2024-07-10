@@ -7,6 +7,11 @@
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
+  <div class="overlay"></div>
+  <video autoplay muted loop id="background-video">
+    <source src="215347_small.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
   <div class="container">
     <h1>Daily Weather</h1>
     <header>
@@ -17,25 +22,15 @@
     </header>
     <main>
       <div id="weather-info">
-        <h2>Get the weather details of any city, Right Now!
-        </h2>
+        <h2>Get the weather details of any city, Right Now!</h2>
         <img id="weather-icon" src="" alt="Weather Icon" style="visibility: hidden;">
-        <p>Temperature: -°C</p>
-        <p> <i>Current Weather</i></p>
-        <div id="forecast-info"></div>
+        <p id="temperature">Temperature: -°C</p>
+        <p id="weather-condition">Current Weather: </p>
+        <p id="precipitation">Chance of Precipitation: -%</p>
+        <p id="cloud-cover">Cloud Cover: -%</p>
       </div>
     </main>
-    <div class="output" id="outputCard" style="visibility: hidden;">  <div class="cityNameCard">
-        <p id="city-name"></p>
-        <p id="countryName"></p>
-      </div>
-      <div class="tempCard">
-        <p id="temp"></p><sup id="sup"></sup>
-      </div>
-      <p id="loc-time"></p>
-    </div>
   </div>
   <script src="script.js"></script>
 </body>
 </html>
-

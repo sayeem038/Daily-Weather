@@ -1,3 +1,4 @@
+[Live Preview ] (https://sayeem038.github.io/Daily-Weather/)
 # TASK NAME : Daily Weather
 # Objective: Create a web application that fetches data from a public API and displays it dynamically on a webpage. Your goal is to integrate the API seamlessly into the application and present the fetched data in a clear and visually appealing manner.
 # Requirements:

@@ -23,8 +23,15 @@ async function getWeatherData(location) {
       const weatherCondition = data.current.condition.text;
       const weatherIcon = data.current.condition.icon;
 
+      // Get current local time at the searched location (assuming time zone info provided by API)
+      const localTime = data.location.localtime;
+
+      // Format the local time using toLocaleTimeString (optional: adjust format)
+      const formattedTime = new Date(localTime).toLocaleTimeString('en-US', { hour12: true });
+
+      // Display city, country, formatted time, and date
       weatherInfo.innerHTML = `
-        <h3>${city}</h3>
+        <h3>${formattedTime} - ${city} (${data.location.country})</h3>
         <img src="${weatherIcon}" alt="${weatherCondition}">
         <p>Temperature: ${temperature}°C</p>
         <p>Weather: ${weatherCondition}</p>

@@ -31,10 +31,10 @@ responsiveness.
 -Enjoy exploring the weather conditions and forecasts for different locations!
 
 # Technologies Used-
--HTML5
--CSS3
--JavaScript (ES6+)
--WeatherAPI
+1.HTML5
+2.CSS3
+3.JavaScript 
+4.WeatherAPI
 
 # Credits-
 Weather icons courtesy of WeatherAPI-(https://www.weatherapi.com/)
@@ -45,4 +45,4 @@ Contributions are welcome! Feel free to open issues or pull requests to suggest 
 # Contact-
 For any inquiries or feedback, please contact - mdsayeemrahman417@gmail.com
 
-Thank you for using the Weather App! We hope you find it useful and informative.
+## Thank you for using the Weather App! We hope you find it useful and informative.

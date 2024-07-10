@@ -31,10 +31,10 @@ responsiveness.
 -Enjoy exploring the weather conditions and forecasts for different locations!
 
 # Technologies Used-
-*HTML5
-*CSS3
-*JavaScript (ES6+)
-*WeatherAPI
+-HTML5
+-CSS3
+-JavaScript (ES6+)
+-WeatherAPI
 
 # Credits-
 Weather icons courtesy of WeatherAPI-(https://www.weatherapi.com/)

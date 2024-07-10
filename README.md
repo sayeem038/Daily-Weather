@@ -64,4 +64,4 @@ Contributions are welcome! Feel free to open issues or pull requests to suggest 
 # Contact-
 For any inquiries or feedback, please contact - mdsayeemrahman417@gmail.com
 
-## Thank you for using the Weather App! We hope you find it useful and informative.
+## Thank you for using the Weather App! I hope you find it useful and informative.

@@ -1,6 +1,8 @@
 # Live Preview - https://sayeem038.github.io/Daily-Weather/
-# TASK NAME : Daily Weather
-# Objective: Create a web application that fetches data from a public API and displays it dynamically on a webpage. Your goal is to integrate the API seamlessly into the application and present the fetched data in a clear and visually appealing manner.
+# TASK NAME : 
+Daily Weather
+# Objective: 
+Create a web application that fetches data from a public API and displays it dynamically on a webpage. Your goal is to integrate the API seamlessly into the application and present the fetched data in a clear and visually appealing manner.
 # Introduction:
 - Daily Weather App is a simple web application designed to provide users with real-time weather information for a given location. It utilizes HTML, CSS, and JavaScript to create an interactive and visually appealing interface. The app fetches weather data from the WeatherAPI, which offers reliable and accurate weather forecasts.
 

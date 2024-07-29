@@ -1,4 +1,5 @@
-# Live Preview - https://sayeem038.github.io/Daily-Weather/
+# Live Preview - 
+https://sayeem038.github.io/Daily-Weather/
 # TASK NAME : 
 Daily Weather
 # Objective: 

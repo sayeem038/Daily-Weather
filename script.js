@@ -1,5 +1,5 @@
 // Replace with your actual API key
-const apiKey = 'ff70bb63f4364a95871115713242508 ';
+const apiKey = 'ff70bb63f4364a95871115713242508';
 
 const searchInput = document.getElementById('search-location');
 const searchButton = document.getElementById('search-button');
